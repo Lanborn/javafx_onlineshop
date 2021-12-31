@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f3960eb-8638-4ffe-a815-5c33c48d47ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22theduRuU64OL9s78ZKiBCAiSN" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/NetWorkSaleSystem/FXML" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_Project\BigWork\src\com\NetWorkSaleSystem\FXML" />
+      <recent name="D:\IDEA_Project\BigWork" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.NetWorkSaleSystem.view.manager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\桌面\java-fx_net-work-shop-master\src" />
+      <recent name="D:\IDEA_Project\BigWork\src\com\NetWorkSaleSystem\FXML\image" />
+      <recent name="D:\IDEA_Project\BigWork" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoginView">
+    <configuration name="LoginView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.NetWorkSaleSystem.view.LoginView" />
+      <module name="BigWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.NetWorkSaleSystem.view.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="BigWork" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginView" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3960eb-8638-4ffe-a815-5c33c48d47ff" name="Default Changelist" comment="" />
+      <created>1640662886388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640662886388</updated>
+      <workItem from="1640662889078" duration="803000" />
+      <workItem from="1640688407593" duration="309000" />
+      <workItem from="1640762389830" duration="296000" />
+      <workItem from="1640765479837" duration="936000" />
+      <workItem from="1640766713515" duration="6279000" />
+      <workItem from="1640774275310" duration="824000" />
+      <workItem from="1640779440027" duration="964000" />
+      <workItem from="1640826825771" duration="88000" />
+      <workItem from="1640864341302" duration="1551000" />
+      <workItem from="1640879491793" duration="20759000" />
+      <workItem from="1640926362917" duration="7351000" />
+      <workItem from="1640935024602" duration="4288000" />
+      <workItem from="1640940624975" duration="721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640774505931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1640774505931" />
+    <state x="858" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1640929703197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="858" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1640929703197" />
+    <state x="599" y="226" key="FileChooserDialogImpl" timestamp="1640767393164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="226" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1640767393164" />
+    <state width="1493" height="229" key="GridCell.Tab.0.bottom" timestamp="1640941350742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640941350742" />
+    <state width="1493" height="229" key="GridCell.Tab.0.center" timestamp="1640941350742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640941350742" />
+    <state width="1493" height="229" key="GridCell.Tab.0.left" timestamp="1640941350742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640941350742" />
+    <state width="1493" height="229" key="GridCell.Tab.0.right" timestamp="1640941350742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640941350742" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1640936567458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640936567458" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1640936567457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640936567457" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1640936567457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640936567457" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1640936567458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640936567458" />
+    <state x="326" y="0" key="SettingsEditor" timestamp="1640767395129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="326" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640767395129" />
+    <state x="460" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1640940633238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="460" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1640940633238" />
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640880976719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1640880976719" />
+    <state x="114" y="45" key="new project wizard" timestamp="1640762686345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="114" y="45" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1640762686345" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1640891325619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1640891325619" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1640930396398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640930396398" />
+  </component>
+</project>

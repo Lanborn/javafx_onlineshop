@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="spring-jcl-5.3.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/spring-jcl-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-core-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-tx-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-beans-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/druid-1.1.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/spring-jdbc-5.3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

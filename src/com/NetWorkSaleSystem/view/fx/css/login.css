@@ -1,0 +1,7 @@
+#loginAn{
+    -fx-background-image: url("../image/bg.gif");
+    -fx-background-color: black;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1024 682;
+    -fx-background-position: center center;
+}
