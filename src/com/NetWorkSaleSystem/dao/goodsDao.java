@@ -10,7 +10,6 @@ import java.util.List;
 
 public class goodsDao {
     private JdbcTemplate template = new JdbcTemplate(JDBCUtils.getDataSource());
-
     public List<Good> findgoods(){
         try {
             String sql = "select * from goods";
